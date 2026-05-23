@@ -79,9 +79,6 @@ Products Priced Below $100
 Mookambika
 Course: Data Analytics
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
 ## Version History
     * v0.2 — Final version with all analysis and dashboard completed
     * v0.1 — Initial version with basic dataset and formulas
